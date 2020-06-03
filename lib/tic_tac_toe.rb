@@ -1,7 +1,7 @@
 class TicTacToe
     attr_reader :board
     
-    WIN_COMBINATIONS = [
+    WIN_COMBIONATIONS = [
       [0,1,2],
       [3,4,5],
       [6,7,8],
